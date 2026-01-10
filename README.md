@@ -1,4 +1,4 @@
-# Abridged Syllabus DS 4002: Data Science Project
+# Syllabus DS 4002: Data Science Project
 
 **All course details are posted on the [course Canvas page](https://canvas.its.virginia.edu/courses/169928).**
 
